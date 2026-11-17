@@ -15,8 +15,8 @@
   <a href="mailto:thakuriaditya121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=AdityaMallaThakuri&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
----
-I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-driven outbound.
+
+                                    I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-driven outbound.
 
 <p align="center">
   <img src="a.webp" width="300" alt="Cartoon character lounging on a couch at night" />
