@@ -32,7 +32,10 @@ I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-dri
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaMallaThakuri&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=6b7280&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallaThakuri&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=6b7280" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallaThakuri&bg_color=ffffff00&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
