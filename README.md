@@ -51,8 +51,6 @@ I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-dri
   </picture>
 </p>
 
-<sub>The snake appears after you add the workflow in `.github/workflows/snake.yml` and run it once (see setup notes).</sub>
-
 ---
 
 <p align="center">
