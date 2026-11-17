@@ -30,9 +30,9 @@ I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-dri
 
 ### 📊 GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaMallaThakuri&show_icons=true&hide_border=true&theme=default&title_color=2563eb&icon_color=2563eb&text_color=374151" alt="GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallaThakuri&bg_color=ffffff&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
