@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Aditya%20Malla%20Thakuri&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20%C2%B7%20Automation%20%C2%B7%20Agentic%20Systems&descAlignY=58&descSize=18" alt="Aditya Malla Thakuri banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Aditya%20Malla%20Thakuri&fontColor=ffffff&fontSize=42&fontAlignY=38" alt="Aditya Malla Thakuri banner" />
 </p>
 
 <p align="center">
