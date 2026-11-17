@@ -31,15 +31,15 @@ I'm a **GTM Engineer at Gamic Media**. I design the infrastructure behind AI-dri
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaMallaThakuri&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=6b7280&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaMallaThakuri&show_icons=true&hide_border=true&theme=default&title_color=2563eb&icon_color=2563eb&text_color=374151" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallaThakuri&bg_color=ffffff00&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallaThakuri&bg_color=ffffff&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMallaThakuri&theme=transparent&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&currStreakNum=6b7280&sideNums=6b7280&sideLabels=6b7280&dates=9ca3af" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=AdityaMallaThakuri&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&currStreakNum=374151&sideNums=374151&sideLabels=374151&dates=6b7280" alt="Streak stats" />
 </p>
 
 ---
